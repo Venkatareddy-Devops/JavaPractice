@@ -5,6 +5,10 @@ public class ArraysException {
     public int a=5;
     public static int b=10;
 
+    /**
+     * 
+     * @param args
+     */
     public static void main(String[] args) {
 
         try {
